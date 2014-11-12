@@ -9,6 +9,6 @@ In the real game, the most bonus points are awarded for long chain reactions, an
 
 Controls
 --------
-Arrows: Move cursor
-Enter/Return: Switch two blocks, or a block and an empty space
-Spacebar: Destroy selected blocks (development tool; not a real part of the game)
+* Arrows: Move cursor
+* Enter/Return: Switch two blocks, or a block and an empty space
+* Spacebar: Destroy selected blocks (development tool; not a real part of the game)
